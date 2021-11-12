@@ -1,0 +1,30 @@
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/SkateBoardFight.deps.json
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/SkateBoardFight.runtimeconfig.json
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/SkateBoardFight.runtimeconfig.dev.json
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/SkateBoardFight.dll
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/SkateBoardFight.pdb
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/obj/Debug/netcoreapp3.1/SkateBoardFight.AssemblyInfoInputs.cache
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/obj/Debug/netcoreapp3.1/SkateBoardFight.AssemblyInfo.cs
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/obj/Debug/netcoreapp3.1/SkateBoardFight.csproj.CoreCompileInputs.cache
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/obj/Debug/netcoreapp3.1/SkateBoardFight.csproj.CopyComplete
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/obj/Debug/netcoreapp3.1/SkateBoardFight.dll
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/obj/Debug/netcoreapp3.1/SkateBoardFight.pdb
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/obj/Debug/netcoreapp3.1/SkateBoardFight.genruntimeconfig.cache
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/obj/Debug/netcoreapp3.1/SkateBoardFight.csproj.AssemblyReference.cache
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/Content/Fighters/Alan Italian/Kick Flip.xnb
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/Content/Fighters/Alan Italian/Ollie.xnb
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/Content/Fighters/Alan Italian/Side Kick.xnb
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/Content/Fighters/Alan Italian/Upwards Flip Kick.xnb
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/Content/Fighters/Alan Italian/Alan Italian.xnb
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/obj/Debug/netcoreapp3.1/SkateBoardFight.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/Content/Levels/Skate Park Sprites.xnb
+/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/bin/Debug/netcoreapp3.1/Content/Levels/Skate Park Sprites UI.xnb

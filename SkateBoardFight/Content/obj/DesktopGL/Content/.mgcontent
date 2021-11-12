@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/Content/Fighters/Alan Italian/Alan Italian.png</File>
+    <File>/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/Content/Levels/Skate Park Sprites UI.png</File>
+    <File>/Users/Gavin_James_Oliver/Projects/SkateBoardFight/SkateBoardFight/Content/Levels/Skate Park Sprites.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
